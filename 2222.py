@@ -1,3 +1,69 @@
+
+Thanks to the recent technology and the internet, we can file our taxes fairly more easily and faster, and more error free. 
+Through the shift from paper-based filing to the electronic-based filing, the recent technology advancement enables us to keep a track of our filing status as well, which comes in super handy. 
+
+Taxes initiated around four thousand five hundred years ago aropund the Mesopotamia era, 
+when people used to file taxes in the way of through livestock since it was 
+a common and preferd way of currency back then. Then the 
+Sixteenth-Amendment was ratified and the control was held by the Congress,
+which initiated today's our personal income system. Then the first form of tax titled as 1040 was
+created through the Bureau of Interal Revenue. At this time, it was still a pilot stage to see
+how people could file taxes without too much trouble. By the 80s, the IRG started to implement the system in the technology to 
+utilize computers for processing return. Then comes the 1986, 
+the first usage of the electronic-based filing was initiated. 
+
+The electronic-based filing was invented through some groups from Ohio, North Carolina and Arizona. 
+The machine called Mitron was first used to initiate electronic production (Davis 2021).
+The machine had a reader that comes with modem and this was used to read the tape that contains tax information. 
+And this process was performed in prior to getting sent to the IRS. Then the IRS received this tape and got processed by the machine, Zilog. 
+This was a old way of supercomputer at that time and was quite revolutionary (Davis 2021).  
+Then the new type of machine was introduced, called IBM-Series-One, which was used for processing purposes. 
+During the 1990-2000s, another method called Telefile strated to be utilized and this wascompletely processed and completed over the phone (Anderson, 2004).
+After this period, a lot of online-based filing systems were introduced such as 
+Turbo-Tax, Tax-Act, H&R-Block, to name a few. 
+
+As the technology evolution advanced further, the IRS started putting efforts in promoting the electronic-based filing,
+and they built a partnership with Free-File Alliance Co. Their program offered free tax filing for everyone who had access to the businesses
+that were available on IRS's website (Fiorino, 2004). By this time, we knew that tax filing software made the whole processmuch easier and the IRS could
+expect a lot more of filing volume, therefore the bigger revenue. Also, lucky for us, 
+utilizing the tax filing software showed the evidence that those who have used the tax program
+have seen the decreased number of cases of overpayment of taxes. 
+
+Before this, approximately 17% of the paper-based filing saw the cases of overpayment of taxes
+while only less than the 0.5% of the those who filed through electronic system had error issues (Fiorino, 2004). 
+Today, the majority of us including the professionals use tax filing software or e-filing, which is fast, accurate and reliable,
+however, the history of such technology has gone through so many different stages, repeatedly inventd and 
+improved by many technitians, and we are benefitting from such a long path. 
+
+I've chosen the history of the technology along with taxes since I believe it has significantly 
+improved our lives and times and we should all know that by understanding the history, and
+the origin of taxes. Taxes have been with us for the longest time, and sadly, will not be gone from this world anytime so soon. 
+But even still, the technology advancement has made the whole process easier, and reduce our overpayment of taxes,
+and this is a great example of how technology made huge differences for all of us. 
+ 
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 Running head: TECHNOLOGY AND EVENT INTRODUCTION 1
 Technology and Event of E-Filing
 Kadie Stokes
